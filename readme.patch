@@ -1,0 +1,24 @@
+--- README.txt
++++ README.md
+@@ -1,8 +1,18 @@
+-OpenCore Legacy Patcher – iMac18,3 (2017 27" 5K iMac)
++OpenCore Legacy Patcher – iMac18,3 (2017 27" 5K iMac)
++
++[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
++[![Last commit](https://img.shields.io/github/last-commit/kaisersuzuki/oclp-imac183.svg)](https://github.com/kaisersuzuki/oclp-imac183/commits/main)
++[![Repo stars](https://img.shields.io/github/stars/kaisersuzuki/oclp-imac183.svg?style=social)](https://github.com/kaisersuzuki/oclp-imac183)
++[![Made with Bash](https://img.shields.io/badge/Made%20with-Bash-blue.svg)](https://www.gnu.org/software/bash/)
++[![macOS Supported](https://img.shields.io/badge/macOS-Sonoma%20%7C%20Sequoia-supported-brightgreen.svg)](https://github.com/dortania/OpenCore-Legacy-Patcher)
++
+ ## 🧰 Overview
+ 
+ This repository contains utility files and configuration to use OpenCore Legacy Patcher (OCLP) on *iMac18,3* — the 2017 27" 5K iMac with a quad-core i7 and 32 GB RAM.
+@@ -20,3 +30,9 @@
+ 4. Boot from USB installer, install macOS, apply post-install patches, and install OpenCore to internal drive.
+ 5. Version control your EFI using the git repo provided.
+ 
++---
++
++## 📜 License
++
++This project is released under the **MIT License**. See the [LICENSE](LICENSE) file for details.
